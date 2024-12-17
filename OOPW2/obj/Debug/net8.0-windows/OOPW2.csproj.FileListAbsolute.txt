@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\bin\Debug\net8.0-windows\OOPW2.exe
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\bin\Debug\net8.0-windows\OOPW2.deps.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\bin\Debug\net8.0-windows\OOPW2.runtimeconfig.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\bin\Debug\net8.0-windows\OOPW2.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\bin\Debug\net8.0-windows\OOPW2.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.Form1.resources
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.csproj.GenerateResource.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.AssemblyInfo.cs
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.sourcelink.json
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\refint\OOPW2.dll
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.pdb
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\OOPW2.genruntimeconfig.cache
+C:\Users\admin\Documents\KKU61\ปี1เทอม2\วิชา OBJECT-ORIENTED PROGRAMING\GitHub\Hello-oop-lab1\OOPW2\obj\Debug\net8.0-windows\ref\OOPW2.dll
